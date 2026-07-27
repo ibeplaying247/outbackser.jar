@@ -1,8 +1,0 @@
-{
-    "type": "paper",
-    "name": "Outback Paper",
-    "version": "1.21.11",
-    "bedrock": true,
-    "java_port": 25565,
-    "bedrock_port": 19132
-}
