@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Lobby-01",
+    "type": "paper",
+    "ram": "4G",
+    "jar": "outback-paper.jar"
+  },
+
+  {
+    "name": "Survival-01",
+    "type": "paper",
+    "ram": "8G",
+    "jar": "outback-paper.jar"
+  },
+
+  {
+    "name": "Modded-Forge-01",
+    "type": "forge",
+    "ram": "10G",
+    "jar": "outback-forge.jar"
+  },
+
+  {
+    "name": "Modded-Fabric-01",
+    "type": "fabric",
+    "ram": "10G",
+    "jar": "outback-fabric.jar"
+  },
+
+  {
+    "name": "Outback-Proxy-01",
+    "type": "proxy",
+    "ram": "2G",
+    "jar": "outback-proxy.jar"
+  }
+]

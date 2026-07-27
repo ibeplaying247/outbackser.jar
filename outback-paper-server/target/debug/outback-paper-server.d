@@ -1,0 +1,1 @@
+C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-paper-server\target\debug\outback-paper-server.exe: C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-branding\src\lib.rs C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-loader\src\lib.rs C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-paper-server\src\main.rs

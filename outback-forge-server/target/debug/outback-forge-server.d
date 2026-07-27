@@ -1,0 +1,1 @@
+C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-forge-server\target\debug\outback-forge-server.exe: C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-branding\src\lib.rs C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-forge-server\src\main.rs C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-loader\src\lib.rs

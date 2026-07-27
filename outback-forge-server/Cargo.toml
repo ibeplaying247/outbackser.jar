@@ -1,0 +1,11 @@
+[package]
+name = "outback-forge-server"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+
+outback-branding = { path = "../outback-branding" }
+
+outback-loader = { path = "../outback-loader" }

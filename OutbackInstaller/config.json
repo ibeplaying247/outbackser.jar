@@ -1,0 +1,26 @@
+{
+    "name": "Outback Servers",
+    "version": "1.0.0",
+
+    "servers": {
+        "paper": {
+            "enabled": true,
+            "path": "../packages/servers/paper"
+        },
+
+        "forge": {
+            "enabled": true,
+            "path": "../packages/servers/forge"
+        },
+
+        "fabric": {
+            "enabled": true,
+            "path": "../packages/servers/fabric"
+        },
+
+        "proxy": {
+            "enabled": true,
+            "path": "../packages/servers/proxy"
+        }
+    }
+}

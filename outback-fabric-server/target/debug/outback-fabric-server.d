@@ -1,0 +1,1 @@
+C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-fabric-server\target\debug\outback-fabric-server.exe: C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-branding\src\lib.rs C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-fabric-server\src\main.rs C:\Users\thego\OutbackInstaller\packages\servers\Outback\outback-loader\src\lib.rs
